@@ -1,7 +1,7 @@
 {
     "name": "byyoursitenl/doccloud",
     "description": "PHP wrapper for DocCloud Web API. Authored and supported by ByYourSite BV.",
-    "license": "BSD-3-Clause",
+    "license": "GNU GENERAL PUBLIC LICENSE",
     "type": "library",
     "autoload": {
         "psr-4": {
